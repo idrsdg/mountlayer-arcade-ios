@@ -1,0 +1,7 @@
+build/
+buildsim/
+buildmac/
+App/Web/
+vendor/
+*.xcodeproj/
+.DS_Store
